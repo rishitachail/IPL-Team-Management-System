@@ -5,4 +5,4 @@ This is a Team Management System project where I have-
 3. Developed interactive console-based interface to input and display team details.
 4. Utilized encapsulation, inheritance, and polymorphism to ensure clean and extensible code design.
 5. Enhanced understanding of OOPs concepts and Java programming techniques.
-   Link : 
+6. Link : https://github.com/rishitachail/IPL-Team-Management-System.git
